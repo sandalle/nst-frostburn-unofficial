@@ -19,7 +19,7 @@ None yet
 
 # Texture Pack
 
-[Soartex Fanver - Vanilla (by SoartexFanver)](https://minecraft.curseforge.com/mc-mods/42794)
+[Soartex Fanver - Modded Universal (by SoartexFanver)](https://soartex.net/downloads/modpacks/)
 
 # Mods
 
