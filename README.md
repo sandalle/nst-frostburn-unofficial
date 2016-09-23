@@ -83,6 +83,8 @@ None yet
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
 1. [QuantumFlux (by jotato)](https://minecraft.curseforge.com/mc-mods/228609)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
+  * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
+  * ```level-type="quark_realistic"```
 1. [RFTools (by McJty)](https://minecraft.curseforge.com/mc-mods/224641)
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
 1. [Random Things (by lumien231)](https://minecraft.curseforge.com/mc-mods/59816)
