@@ -7,6 +7,7 @@ OPTIONS='nogui'
 MCPATH="${SERVER_DIR}"
 #	-Dfml.debugClassPatchManager=true -Dfml.debugRegistryEntries=true \
 #	-XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:ParallelGCThreads=8 -XX:ConcGCThreads=2 -XX:InitiatingHeapOccupancyPercent=70 -XX:+DisableExplicitGC -XX:+UseFastAccessorMethods -XX:+AggressiveOpts -XX:-UseAdaptiveSizePolicy \
+# Garbage Collector optimizations are from https://forums.spongepowered.org/t/optimized-startup-flags-for-consistent-garbage-collection/13239
 INVOCATION="java -server  \
 	-Xms${START_MEMORY}M -Xmx${MAX_MEMORY}M  \
 	-XX:+UseLargePages  \
