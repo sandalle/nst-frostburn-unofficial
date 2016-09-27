@@ -68,7 +68,7 @@ None yet
 1. [Just Enough Resources (JER) (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/240630)
 1. [LLibrary (by iLexiconn)](https://minecraft.curseforge.com/mc-mods/243298)
 1. [Login Shield (by Glasspelican)](https://minecraft.curseforge.com/mc-mods/233255)
-1. [Mekanism](http://aidancbrady.com/mekanism/download/)
+1. [Mekanism (by Aidan Brady)](http://aidancbrady.com/mekanism/download/)
 1. [MMD OreSpawn (by jriwanek)](https://minecraft.curseforge.com/mc-mods/245586)
 1. [Mantle (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74924)
 1. [McJtyLib (by McJty)](https://minecraft.curseforge.com/mc-mods/233105)
