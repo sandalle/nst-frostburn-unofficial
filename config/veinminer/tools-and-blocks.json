@@ -118,7 +118,6 @@
         "tconstruct:pickaxe"
       ],
       "blocklist": [
-        "actuallyadditions:blockMisc/3",
         "armorplus:block_lava_crystal/0",
         "basemetals:adamantine_ore/0",
         "basemetals:coldiron_ore/0",
@@ -166,6 +165,12 @@
         "modsquad:BlockOreCopper/0",
         "modsquad:BlockOreLead/0",
         "modsquad:BlockOreTin/0",
+        "mysticalagriculture:end_prosperity_ore",
+        "mysticalagriculture:end_inferium_ore",
+        "mysticalagriculture:nether_inferium_ore",
+        "mysticalagriculture:nether_prosperity_ore",
+        "mysticalagriculture:inferium_ore",
+        "mysticalagriculture:prosperity_ore",
         "nethermetals:nether_aluminum_ore",
         "nethermetals:nether_antimony_ore",
         "nethermetals:nether_bismuth_ore",
