@@ -26,7 +26,7 @@ None yet
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/mc-mods/224472)
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
-1. [ArmorPlus (by Moritz30)](https://minecraft.curseforge.com/mc-mods/237366) (Might be redundant with the other powered armor options from IndustrialCraft, Mekanism, and the Tesla Arsenal mods).
+1. [ArmorPlus (by Moritz30)](https://minecraft.curseforge.com/mc-mods/237366) (Might be redundant with the other powered armor options from Mekanism and the Tesla Arsenal mods).
 1. [Aroma1997Core (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/223735)
 1. [Aroma1997s Dimensional World (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/60092)
 1. [AromaBackup (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/225658)
@@ -59,10 +59,9 @@ None yet
 1. [Guide-API (by TehNut)](https://minecraft.curseforge.com/mc-mods/228832)
 1. [HelpFixer (by matthewprenger)](https://minecraft.curseforge.com/mc-mods/223797)
 1. [Immersive Engineering (by BluSunrize)](https://minecraft.curseforge.com/mc-mods/231951)
-1. [Industrial Craft (by Player)](https://minecraft.curseforge.com/mc-mods/242638)
-1. [Industrial Wires (by malte0811)](https://minecraft.curseforge.com/mc-mods/251121)
 1. [Inventory Tweaks (by Kobata)](https://minecraft.curseforge.com/mc-mods/223094)
 1. [Iron Chests (by progwml6)](https://minecraft.curseforge.com/mc-mods/228756)
+1. [JEI Bees (by bdew)](https://mods.curse.com/mc-mods/minecraft/248370-jei-bees)
 1. [JourneyMap (by techbrew)](https://minecraft.curseforge.com/mc-mods/32274)
 1. [JurassiCraft - 2.0 (by gegy)](https://minecraft.curseforge.com/mc-mods/226719)
 1. [Just Enough Items (JEI) (by mezz)](https://minecraft.curseforge.com/mc-mods/238222)
@@ -73,8 +72,10 @@ None yet
 1. [MMD OreSpawn (by jriwanek)](https://minecraft.curseforge.com/mc-mods/245586)
 1. [Mantle (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74924)
 1. [McJtyLib (by McJty)](https://minecraft.curseforge.com/mc-mods/233105)
+1. [More Bees (by Proffeser_science)](https://mods.curse.com/mc-mods/minecraft/250226-more-bees]
 1. [Morpheus (by Quetzi)](https://minecraft.curseforge.com/mc-mods/69118)
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
+1. [Natura (by mDiyo)](https://mods.curse.com/mc-mods/minecraft/natura)
 1. [Nether Metals (by knoxhack)](https://minecraft.curseforge.com/mc-mods/243277)
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)

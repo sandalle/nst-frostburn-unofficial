@@ -63,6 +63,15 @@
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
+        "natura:nether_leaves",
+        "natura:nether_leaves2",
+        "natura:nether_logs",
+        "natura:overworld_leaves",
+        "natura:overworld_leaves2",
+        "natura:overworld_logs",
+        "natura:overworld_logs2",
+        "natura:redwood_leaves",
+        "natura:redwood_logs",
         "randomthings:spectreLeaf/0",
         "randomthings:spectreLog/0",
         "tconstruct:slime_leaves"
@@ -267,6 +276,11 @@
         "minecraft:vine",
         "minecraft:web",
         "minecraft:wool",
+        "natura:nether_leaves",
+        "natura:nether_leaves2",
+        "natura:overworld_leaves",
+        "natura:overworld_leaves2",
+        "natura:redwood_leaves",
         "randomthings:spectreLeaf/0",
         "tconstruct:slime_leaves"
       ]
