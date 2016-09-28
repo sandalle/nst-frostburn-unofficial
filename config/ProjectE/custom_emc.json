@@ -63,6 +63,10 @@
     {
       "item": "forestry:apatite|0",
       "emc": 8
+    },
+    {
+      "item": "jurassicraft:gypsum_powder|0",
+      "emc": 4
     }
   ]
 }
