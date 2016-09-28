@@ -67,6 +67,46 @@
     {
       "item": "jurassicraft:gypsum_powder|0",
       "emc": 4
+    },
+    {
+      "item": "tconstruct:edible|11",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|13",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|10",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:edible|14",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|15",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|20",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|12",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|21",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|23",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|22",
+      "emc": 64
     }
   ]
 }
