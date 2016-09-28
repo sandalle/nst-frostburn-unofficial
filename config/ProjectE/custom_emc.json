@@ -59,6 +59,10 @@
     {
       "item": "botania:livingwood|0",
       "emc": 8
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 8
     }
   ]
 }
