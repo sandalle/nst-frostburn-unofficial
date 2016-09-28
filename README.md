@@ -20,6 +20,7 @@ None yet
 # Texture Pack
 
 [Soartex Fanver - Modded Universal (by SoartexFanver)](https://soartex.net/downloads/modpacks/)
+[Optifine (by sp614x)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-c3-fps-boost-dynamic-lights-shaders)
 
 # Mods
 
@@ -38,6 +39,7 @@ None yet
 1. [BetterAchievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
 1. [BetterBedrockGen (by Gigabit1011)](https://minecraft.curseforge.com/mc-mods/223275)
 1. [BetterFps (by Guichaguri)](https://minecraft.curseforge.com/mc-mods/229876)
+1. [Blood Magic (by WayOfTime)](https://mods.curse.com/mc-mods/minecraft/224791-blood-magic)
 1. [Bloodmoon (by lumien231)](https://minecraft.curseforge.com/mc-mods/226321)
 1. [Botania (by Vazkii)](https://minecraft.curseforge.com/mc-mods/225643)
 1. [Brandon's Core (by brandon3055)](https://mods.curse.com/mc-mods/minecraft/231382-brandons-core)
