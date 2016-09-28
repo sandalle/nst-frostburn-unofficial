@@ -3,6 +3,62 @@
     {
       "item": "mekanism:Salt|0",
       "emc": 4
+    },
+    {
+      "item": "teslamodularsolars:itemtitaniumingot|0",
+      "emc": 512
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard|0",
+      "emc": 32
+    },
+    {
+      "item": "natura:materials|7",
+      "emc": 192
+    },
+    {
+      "item": "immersiveengineering:material|4",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:treatedWood|0",
+      "emc": 16
+    },
+    {
+      "item": "basemetals:mercury_ingot|0",
+      "emc": 512
+    },
+    {
+      "item": "basemetals:coldiron_ingot|0",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:material|6",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence|0",
+      "emc": 24
+    },
+    {
+      "item": "silentgems:FluffyPuff|0",
+      "emc": 6
+    },
+    {
+      "item": "basemetals:zinc_ingot|0",
+      "emc": 384
+    },
+    {
+      "item": "draconicevolution:draconium_dust|0",
+      "emc": 2048
+    },
+    {
+      "item": "botania:livingrock|0",
+      "emc": 4
+    },
+    {
+      "item": "botania:livingwood|0",
+      "emc": 8
     }
   ]
 }
