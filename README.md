@@ -30,7 +30,6 @@ None yet
 1. [ArmorPlus (by Moritz30)](https://minecraft.curseforge.com/mc-mods/237366) (Might be redundant with the other powered armor options from Mekanism and the Tesla Arsenal mods).
 1. [Aroma1997Core (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/223735)
 1. [Aroma1997s Dimensional World (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/60092)
-1. [AromaBackup (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/225658)
 1. [AutoRegLib (by Vazkii)](https://minecraft.curseforge.com/mc-mods/250363)
 1. [Base Metals (by jriwanek)](https://minecraft.curseforge.com/mc-mods/240967)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
