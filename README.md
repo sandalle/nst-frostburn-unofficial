@@ -100,8 +100,6 @@ None yet
 1. [Silent's Gems (by SilentChaos512)](https://minecraft.curseforge.com/mc-mods/220311)
 1. [SimpleHarvest (by TehNut)](https://minecraft.curseforge.com/mc-mods/240783)
 1. [Simpleretrogen (by cpw11)](https://minecraft.curseforge.com/mc-mods/240566)
-1. [Stellar API (by abab9579)](https://minecraft.curseforge.com/mc-mods/244147)
-1. [Stellar Sky (by abab9579)](https://minecraft.curseforge.com/mc-mods/236078)
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/mc-mods/223852)
 1. [Super Crafting Frame (by Edgar_Allen)](https://minecraft.curseforge.com/mc-mods/73926)
 1. [TESLA (by darkh4x)](https://minecraft.curseforge.com/mc-mods/244651)
