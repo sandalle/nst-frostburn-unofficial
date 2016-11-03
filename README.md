@@ -25,6 +25,7 @@ None yet
 # Mods
 
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
+1. [Advanced Rocketry (by zmaster587)](https://minecraft.curseforge.com/projects/advanced-rocketry)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/mc-mods/224472)
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
 1. [ArmorPlus (by Moritz30)](https://minecraft.curseforge.com/mc-mods/237366) (Might be redundant with the other powered armor options from Mekanism and the Tesla Arsenal mods).
@@ -70,6 +71,7 @@ None yet
 1. [JurassiCraft - 2.0 (by gegy)](https://minecraft.curseforge.com/mc-mods/226719)
 1. [Just Enough Items (JEI) (by mezz)](https://minecraft.curseforge.com/mc-mods/238222)
 1. [Just Enough Resources (JER) (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/240630)
+1. [LibVulpes (by zmaster587)](https://minecraft.curseforge.com/projects/libvulpes)
 1. [LLibrary (by iLexiconn)](https://minecraft.curseforge.com/mc-mods/243298)
 1. [Login Shield (by Glasspelican)](https://minecraft.curseforge.com/mc-mods/233255)
 1. [Mekanism (by Aidan Brady)](http://aidancbrady.com/mekanism/download/)
