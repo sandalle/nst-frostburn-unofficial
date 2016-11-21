@@ -75,6 +75,7 @@
         "natura:redwood_logs",
         "randomthings:spectreLeaf/0",
         "randomthings:spectreLog/0",
+        "roots:logWildwood/0",
         "tconstruct:slime_leaves"
       ]
     },
@@ -129,6 +130,7 @@
         "tconstruct:pickaxe"
       ],
       "blocklist": [
+        "actuallyadditions:blockMisc/3",
         "armorplus:block_lava_crystal/0",
         "basemetals:adamantine_ore/0",
         "basemetals:coldiron_ore/0",

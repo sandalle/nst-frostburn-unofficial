@@ -24,6 +24,7 @@ None yet
 
 # Mods
 
+1. [Actually Additions (by Ellpeck)](https://minecraft.curseforge.com/projects/actually-additions)
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
 1. [Advanced Rocketry (by zmaster587)](https://minecraft.curseforge.com/projects/advanced-rocketry)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/mc-mods/224472)
@@ -35,9 +36,10 @@ None yet
 1. [Base Metals (by jriwanek)](https://minecraft.curseforge.com/mc-mods/240967)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
 1. [BdLib (by bdew)](https://minecraft.curseforge.com/mc-mods/70496)
+1. [Better Agriculture (by koxhack)](https://minecraft.curseforge.com/projects/better-agriculture)
+1. [Better Achievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
+1. [Better BedrockGen (by Gigabit1011)](https://minecraft.curseforge.com/mc-mods/223275)
 1. [Better Builder's Wands (by Portablejim)](https://minecraft.curseforge.com/mc-mods/238403)
-1. [BetterAchievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
-1. [BetterBedrockGen (by Gigabit1011)](https://minecraft.curseforge.com/mc-mods/223275)
 1. [BetterFps (by Guichaguri)](https://minecraft.curseforge.com/mc-mods/229876)
 1. [Blood Magic (by WayOfTime)](https://mods.curse.com/mc-mods/minecraft/224791-blood-magic)
 1. [Bloodmoon (by lumien231)](https://minecraft.curseforge.com/mc-mods/226321)
@@ -87,6 +89,7 @@ None yet
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
 1. [OreDictionaryConverter (by EXTER7)](https://minecraft.curseforge.com/mc-mods/227564)
+1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/mc-mods/226410)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
@@ -98,6 +101,7 @@ None yet
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
 1. [Reliquary v1.3 (by P3pp3rF1y)](https://minecraft.curseforge.com/mc-mods/241319)
 1. [Roguelike Dungeons (by Greymerk)](https://minecraft.curseforge.com/mc-mods/221585)
+1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
 1. [SimpleHarvest (by TehNut)](https://minecraft.curseforge.com/mc-mods/240783)
 1. [Simpleretrogen (by cpw11)](https://minecraft.curseforge.com/mc-mods/240566)
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/mc-mods/223852)
