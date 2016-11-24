@@ -102,6 +102,7 @@ None yet
 1. [Reliquary v1.3 (by P3pp3rF1y)](https://minecraft.curseforge.com/mc-mods/241319)
 1. [Roguelike Dungeons (by Greymerk)](https://minecraft.curseforge.com/mc-mods/221585)
 1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
+1. [SG Craft (by gcewing)](https://minecraft.curseforge.com/projects/sg-craft)
 1. [SimpleHarvest (by TehNut)](https://minecraft.curseforge.com/mc-mods/240783)
 1. [Simpleretrogen (by cpw11)](https://minecraft.curseforge.com/mc-mods/240566)
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/mc-mods/223852)
