@@ -48,6 +48,7 @@ None yet
 1. [Chisels & Bits (by AlgorithmX2)](https://minecraft.curseforge.com/mc-mods/231095)
 1. [Chisels & Bytes (by Belgabor)](https://minecraft.curseforge.com/mc-mods/242390)
 1. [CodeChicken Lib (by chicken_bones)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
+1. [CompatLayer (by McJty)](https://minecraft.curseforge.com/projects/compatlayer)
 1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/mc-mods/239197)
 1. [Davinci's Vessels (by bk1325)](https://minecraft.curseforge.com/projects/davincis-vessels)
 1. [Ding (by iChun)](https://minecraft.curseforge.com/mc-mods/231275)
