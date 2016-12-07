@@ -64,7 +64,6 @@ None yet
 1. [Guide-API (by TehNut)](https://minecraft.curseforge.com/mc-mods/228832)
 1. [HelpFixer (by matthewprenger)](https://minecraft.curseforge.com/mc-mods/223797)
 1. [Immersive Engineering (by BluSunrize)](https://minecraft.curseforge.com/mc-mods/231951)
-1. [Inventory Tweaks (by Kobata)](https://minecraft.curseforge.com/mc-mods/223094)
 1. [Iron Chests (by progwml6)](https://minecraft.curseforge.com/mc-mods/228756)
 1. [JEI Bees (by bdew)](https://mods.curse.com/mc-mods/minecraft/248370-jei-bees)
 1. [JourneyMap (by techbrew)](https://minecraft.curseforge.com/mc-mods/32274)
