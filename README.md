@@ -45,6 +45,7 @@ None yet
 1. [Botania (by Vazkii)](https://minecraft.curseforge.com/mc-mods/225643)
 1. [Brandon's Core (by brandon3055)](https://mods.curse.com/mc-mods/minecraft/231382-brandons-core)
 1. [Chameleon (by jaquadro)](https://minecraft.curseforge.com/mc-mods/230497)
+1. [Chisel (by tterrag1098)](https://minecraft.curseforge.com/projects/chisel)
 1. [Chisels & Bits (by AlgorithmX2)](https://minecraft.curseforge.com/mc-mods/231095)
 1. [Chisels & Bytes (by Belgabor)](https://minecraft.curseforge.com/mc-mods/242390)
 1. [CodeChicken Lib (by chicken_bones)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
