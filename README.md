@@ -24,6 +24,8 @@ None yet
 
 # Mods
 
+1. [Actually Additions (by Ellpeck)](https://minecraft.curseforge.com/projects/actually-additions)
+1. [Actually Computers (by canitzp)](https://minecraft.curseforge.com/projects/actuallycomputers)
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
 1. [Advanced Rocketry (by zmaster587)](https://minecraft.curseforge.com/projects/advanced-rocketry)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/mc-mods/224472)
