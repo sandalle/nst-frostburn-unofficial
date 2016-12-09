@@ -24,12 +24,10 @@ None yet
 
 # Mods
 
-1. [Actually Additions (by Ellpeck)](https://minecraft.curseforge.com/projects/actually-additions)
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
 1. [Advanced Rocketry (by zmaster587)](https://minecraft.curseforge.com/projects/advanced-rocketry)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/mc-mods/224472)
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
-1. [ArmorPlus (by Moritz30)](https://minecraft.curseforge.com/mc-mods/237366) (Might be redundant with the other powered armor options from Mekanism and the Tesla Arsenal mods).
 1. [Aroma1997Core (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/223735)
 1. [Aroma1997s Dimensional World (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/60092)
 1. [AutoRegLib (by Vazkii)](https://minecraft.curseforge.com/mc-mods/250363)
@@ -108,12 +106,6 @@ None yet
 1. [Simpleretrogen (by cpw11)](https://minecraft.curseforge.com/mc-mods/240566)
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/mc-mods/223852)
 1. [Super Crafting Frame (by Edgar_Allen)](https://minecraft.curseforge.com/mc-mods/73926)
-1. [TESLA (by darkh4x)](https://minecraft.curseforge.com/mc-mods/244651)
-1. [Tesla Arsenal (by knoxhack)](https://minecraft.curseforge.com/mc-mods/247634)
-1. [Tesla Coils (by GunnerWolfe)](https://minecraft.curseforge.com/mc-mods/247619)
-1. [Tesla Essentials (by Tacomundu12)](https://minecraft.curseforge.com/mc-mods/248607)
-1. [Tesla Modular Solars (by JoltEffect)](https://minecraft.curseforge.com/mc-mods/250113)
-1. [TheDragonCore (by Moritz30)](https://minecraft.curseforge.com/mc-mods/248055)
 1. [Tinkers Construct (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74072)
 1. [VeinMiner (by Portablejim)](https://minecraft.curseforge.com/mc-mods/67133)
 1. [Waila (by ProfMobius)](https://minecraft.curseforge.com/mc-mods/73488)
