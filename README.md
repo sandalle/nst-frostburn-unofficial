@@ -94,6 +94,7 @@ None yet
   * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
   * ```level-type="quark_realistic"```
 1. [RFTools (by McJty)](https://minecraft.curseforge.com/mc-mods/224641)
+1. [RFTools Control (by McJty)](https://minecraft.curseforge.com/projects/rftools-control)
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
 1. [Random Things (by lumien231)](https://minecraft.curseforge.com/mc-mods/59816)
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
