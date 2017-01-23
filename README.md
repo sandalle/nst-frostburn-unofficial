@@ -79,7 +79,6 @@ None yet
 1. [MalisisDoors (by Ordinastie)](https://minecraft.curseforge.com/projects/malisisdoors)
 1. [Mantle (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74924)
 1. [McJtyLib (by McJty)](https://minecraft.curseforge.com/mc-mods/233105)
-1. [Mekanism (by Aidan Brady)](http://aidancbrady.com/mekanism/download/)
 1. [MMD OreSpawn (by jriwanek)](https://minecraft.curseforge.com/mc-mods/245586)
 1. [More Bees (by Proffeser_science)](https://mods.curse.com/mc-mods/minecraft/250226-more-bees)
 1. [Morpheus (by Quetzi)](https://minecraft.curseforge.com/mc-mods/69118)
