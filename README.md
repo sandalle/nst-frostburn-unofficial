@@ -11,7 +11,7 @@ None yet
 
 # Forge
 
-[1.10.2-12.18.3.2185](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html)
+[1.10.2-12.18.3.2221](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -36,10 +36,12 @@ None yet
 1. [Base Metals (by jriwanek)](https://minecraft.curseforge.com/mc-mods/240967)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
 1. [BdLib (by bdew)](https://minecraft.curseforge.com/mc-mods/70496)
+1. [BedBugs (by gr8pefish)](https://minecraft.curseforge.com/projects/bed-bugs)
 1. [Better Achievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
 1. [Better BedrockGen (by Gigabit1011)](https://minecraft.curseforge.com/mc-mods/223275)
 1. [Better Builder's Wands (by Portablejim)](https://minecraft.curseforge.com/mc-mods/238403)
 1. [BetterFps (by Guichaguri)](https://minecraft.curseforge.com/mc-mods/229876)
+1. [BiblioCraft (by JDSinclair)](https://minecraft.curseforge.com/projects/bibliocraft)
 1. [Blood Magic (by WayOfTime)](https://mods.curse.com/mc-mods/minecraft/224791-blood-magic)
 1. [Bloodmoon (by lumien231)](https://minecraft.curseforge.com/mc-mods/226321)
 1. [Botania (by Vazkii)](https://minecraft.curseforge.com/mc-mods/225643)
@@ -56,6 +58,7 @@ None yet
 1. [EnderCore (by tterrag1098)](https://minecraft.curseforge.com/projects/endercore)
 1. [Ender IO (by CrazyPants)](https://minecraft.curseforge.com/projects/ender-io)
 1. [Ender Storage (by covers1624)](https://minecraft.curseforge.com/projects/ender-storage-1-8)
+1. [Extreme Reactors (by ZeroNoRyouki)](https://minecraft.curseforge.com/projects/extreme-reactors)
 1. [FTB Utilities (by FTB)](https://minecraft.curseforge.com/mc-mods/237102)
 1. [FTBLib (by FTB)](https://minecraft.curseforge.com/mc-mods/237167)
 1. [FastLeafDecay (by Olafskii)](https://minecraft.curseforge.com/mc-mods/230976)
@@ -88,6 +91,7 @@ None yet
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
 1. [OreDictionaryConverter (by EXTER7)](https://minecraft.curseforge.com/mc-mods/227564)
+1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/mc-mods/226410)
@@ -110,4 +114,9 @@ None yet
 1. [Super Crafting Frame (by Edgar_Allen)](https://minecraft.curseforge.com/mc-mods/73926)
 1. [The One Probe (by McJty)](https://minecraft.curseforge.com/projects/the-one-probe)
 1. [Tinkers Construct (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74072)
+1. [TOP Addons by DrMathiasDJ)](https://minecraft.curseforge.com/projects/top-addons)
+1. [UniDict (by WanionCane)](https://minecraft.curseforge.com/projects/unidict)
 1. [VeinMiner (by Portablejim)](https://minecraft.curseforge.com/mc-mods/67133)
+1. [WanionLib (by WanionCane)](https://minecraft.curseforge.com/projects/wanionlib)
+1. [ZeroCore (by ZeroNoRyouki)](https://minecraft.curseforge.com/projects/zerocore)
+
