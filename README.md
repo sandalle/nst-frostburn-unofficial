@@ -103,6 +103,8 @@ None yet
 1. [RFTools Control (by McJty)](https://minecraft.curseforge.com/projects/rftools-control)
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
 1. [Random Things (by lumien231)](https://minecraft.curseforge.com/mc-mods/59816)
+1. [Reborn Core (by modmuss50)](https://minecraft.curseforge.com/projects/reborncore)
+1. [Reborn Storage (by modmuss50)](https://minecraft.curseforge.com/projects/rebornstorage)
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
 1. [Roguelike Dungeons (by Greymerk)](https://minecraft.curseforge.com/mc-mods/221585)
 1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
