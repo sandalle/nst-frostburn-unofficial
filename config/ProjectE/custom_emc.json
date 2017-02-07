@@ -33,10 +33,6 @@
       "emc": 24
     },
     {
-      "item": "silentgems:FluffyPuff|0",
-      "emc": 6
-    },
-    {
       "item": "basemetals:zinc_ingot|0",
       "emc": 384
     },
@@ -99,6 +95,794 @@
     {
       "item": "tconstruct:edible|22",
       "emc": 64
+    },
+    {
+      "item": "harvestcraft:blackberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:raspberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:blueberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:candleberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cranberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:strawberryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:gooseberryItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:mustardseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:sunflowerseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:sesameseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:roastedpumpkinseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:saltedsunflowerseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:blackberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:blueberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:candleberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:raspberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:strawberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cactusfruitseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:asparagusseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:barleyseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:oatsseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:ryeseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cornseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:bambooshootseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cantaloupeseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cucumberseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:wintersquashseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:zucchiniseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:beetseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:onionseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:parsnipseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:peanutseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:radishseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:rutabagaseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:sweetpotatoseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:turnipseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:rhubarbseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:celeryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:garlicseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:gingerseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:spiceleafseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:teaseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:coffeeseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:mustardseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:broccoliseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cauliflowerseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:leekseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:lettuceseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:scallionseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:artichokeseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:brusselsproutseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cabbageseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:spinachseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:beanseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:soybeanseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:bellpepperseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:chilipepperseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:eggplantseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:okraseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:peasseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:tomatoseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cottonseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:pineappleseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:grapeseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:kiwiseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cranberryseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:riceseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:seaweedseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:curryleafseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:sesameseedsseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:waterchestnutseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:toastedsesameseedsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:saltItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:barleyItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:asparagusItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cactusfruitItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:oatsItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:ryeItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cornItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:bambooshootItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:zucchiniItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:wintersquashItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:radishItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:sweetpotatoItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:rutabagaItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:turnipItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:peanutItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cucumberItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cantaloupeItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:beetItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:onionItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:parsnipItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:rhubarbItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:celeryItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:garlicItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:gingerItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:spiceleafItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:tealeafItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:coffeebeanItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:broccoliItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cauliflowerItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:leekItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:lettuceItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:scallionItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:artichokeItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:brusselsproutItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cabbageItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:spinachItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:whitemushroomItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:whitemushroomseedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:beanItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:soybeanItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:bellpepperItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:chilipepperItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:eggplantItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:okraItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:peasItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:tomatoItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:cottonItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:pineappleItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:grapeItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:kiwiItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:riceItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:seaweedItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:curryleafItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:waterchestnutItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:dateItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:papayaItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:cherryItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:figItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:dragonfruitItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:lemonItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:pearItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:oliveItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:grapefruitItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:pomegranateItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:cashewItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:vanillabeanItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:starfruitItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:bananaItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:plumItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:avocadoItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:pecanItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:pistachioItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:limeItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:peppercornItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:almondItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:peachItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:chestnutItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:mangoItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:coconutItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:apricotItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:orangeItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:walnutItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:persimmonItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:nutmegItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:durianItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:cinnamonItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:maplesyrupItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:calamarirawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:honeyItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:freshwaterItem|0",
+      "emc": 384
+    },
+    {
+      "item": "harvestcraft:firmtofuItem|0",
+      "emc": 96
+    },
+    {
+      "item": "natura:materials|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:silkentofuItem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:perchrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:scalloprawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:shrimprawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:snailrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:anchovyrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:bassrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:carprawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:catfishrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:charrrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:jellyfishrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:mudfishrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:octopusrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:crabrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:clamrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:herringrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:grouperrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:frograwItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:troutrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:tilapiarawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:snapperrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:crayfishrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:eelrawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:turtlerawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:walleyerawItem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:greenheartfishItem|0",
+      "emc": 192
+    },
+    {
+      "item": "actuallyadditions:itemRiceSeed|0",
+      "emc": 96
+    },
+    {
+      "item": "actuallyadditions:itemFood|16",
+      "emc": 96
+    },
+    {
+      "item": "actuallyadditions:itemCoffeeSeed|0",
+      "emc": 96
+    },
+    {
+      "item": "actuallyadditions:itemCoffeeBeans|0",
+      "emc": 96
+    },
+    {
+      "item": "natura:materials|2",
+      "emc": 96
+    },
+    {
+      "item": "natura:materials|1",
+      "emc": 96
+    },
+    {
+      "item": "enderio:itemPowderIngot|8",
+      "emc": 96
     }
   ]
 }
