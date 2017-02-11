@@ -883,6 +883,10 @@
     {
       "item": "enderio:itemPowderIngot|8",
       "emc": 96
+    },
+    {
+      "item": "quark:basalt|0",
+      "emc": 1
     }
   ]
 }
