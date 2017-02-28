@@ -24,8 +24,8 @@ INVOCATION="java -server  \
 	-XX:+AggressiveOpts  \
 	-XX:+AlwaysPreTouch  \
 	-Djline.terminal=unix -Djava.util.prefs.userRoot=${SERVER_DIR}  \
-	-Dfml.doNotBackup=true -Dfml.queryResult=confirm  \
 	-Djava.net.preferIPv4Stack=true  \
 	-jar $SERVICE $OPTIONS"
+#	-Dfml.doNotBackup=true -Dfml.queryResult=confirm  \
 
 ${INVOCATION}
