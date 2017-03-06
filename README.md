@@ -62,6 +62,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [FTB Utilities (by FTB)](https://minecraft.curseforge.com/mc-mods/237102)
 1. [FTBLib (by FTB)](https://minecraft.curseforge.com/mc-mods/237167)
 1. [FastLeafDecay (by Olafskii)](https://minecraft.curseforge.com/mc-mods/230976)
+1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix)
 1. [Forestry (by SirSengir)](https://minecraft.curseforge.com/mc-mods/59751)
 1. [Gendustry (by bdew)](https://minecraft.curseforge.com/mc-mods/70492)
 1. [GraveStone Mod (by EuhDawson)](https://minecraft.curseforge.com/mc-mods/238551)
