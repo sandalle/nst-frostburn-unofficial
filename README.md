@@ -94,6 +94,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [OreDictionaryConverter (by EXTER7)](https://minecraft.curseforge.com/mc-mods/227564)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
+1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/mc-mods/226410)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
