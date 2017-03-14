@@ -1,0 +1,18 @@
+{
+	"dimensions":[
+		{
+			"dimension":"-1",
+			"__comment":"dimension 0 for overworld, -1 for the nether, 1 for the end, other numbers for dimensions added by other mods, and + for any dimension not already described by this file.",
+			"ores":[
+				{
+					"blockID":"nethermetals:nether_uranium_ore",
+					"size":4,
+					"variation":4,
+					"frequency":4,
+					"minHeight":0,
+					"maxHeight":128
+				}
+			]
+		}
+	]
+}
