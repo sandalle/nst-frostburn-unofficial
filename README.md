@@ -5,7 +5,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 
 # Packs using this config
 
-[NST Unofficial 1.10 - Frostburn edition on CurseForge](https://minecraft.curseforge.com/projects/nst-unofficial-1-10-frostburn)
+[NST Unofficial 1.10 - Frostburn edition on CurseForge](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn)
 
 
 
