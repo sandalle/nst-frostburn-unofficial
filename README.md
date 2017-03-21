@@ -99,8 +99,8 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/mc-mods/226410)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
-  * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
-  * ```level-type="quark_realistic"```
+   * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
+   * ```level-type="quark_realistic"```
 1. [RFTools (by McJty)](https://minecraft.curseforge.com/mc-mods/224641)
 1. [RFTools Control (by McJty)](https://minecraft.curseforge.com/projects/rftools-control)
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
@@ -125,4 +125,3 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [VeinMiner (by Portablejim)](https://minecraft.curseforge.com/mc-mods/67133)
 1. [WanionLib (by WanionCane)](https://minecraft.curseforge.com/projects/wanionlib)
 1. [ZeroCore (by ZeroNoRyouki)](https://minecraft.curseforge.com/projects/zerocore)
-
