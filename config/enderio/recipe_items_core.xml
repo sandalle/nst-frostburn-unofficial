@@ -278,7 +278,7 @@ XML editor will display that as tooltips when editing this file.
         <item name="CONDUIT_BINDER" /><item /><item name="CONDUIT_BINDER" />
         <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
       </grid>
-      <output name="enderio:blockConduitFacade:0" />
+      <output name="enderio:itemConduitFacade:0" />
     </crafting>
   </recipe>
 
@@ -286,10 +286,10 @@ XML editor will display that as tooltips when editing this file.
     <crafting>
       <grid>
         <item /><item name="dustObsidian" /><item />
-        <item name="dustObsidian" /><item name="enderio:blockConduitFacade:0" /><item name="dustObsidian" />
+        <item name="dustObsidian" /><item name="enderio:itemConduitFacade:0" /><item name="dustObsidian" />
         <item /><item name="dustObsidian" /><item />
       </grid>
-      <output name="enderio:blockConduitFacade:1" />
+      <output name="enderio:itemConduitFacade:1" />
     </crafting>
   </recipe>
 
@@ -300,16 +300,16 @@ XML editor will display that as tooltips when editing this file.
         <item name="CONDUIT_BINDER" /><item name="FUSED_GLASS" /><item name="CONDUIT_BINDER" />
         <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
       </grid>
-      <output name="enderio:blockConduitFacade:2" />
+      <output name="enderio:itemConduitFacade:2" />
     </crafting>
   </recipe>
 
   <recipe name="Conduit Facade, transparent, upgrade" required="true">
     <crafting>
       <shapeless>
-        <item name="enderio:blockConduitFacade:0"/><item name="FUSED_GLASS" />
+        <item name="enderio:itemConduitFacade:0"/><item name="FUSED_GLASS" />
       </shapeless>
-      <output name="enderio:blockConduitFacade:2" />
+      <output name="enderio:itemConduitFacade:2" />
     </crafting>
   </recipe>
 
@@ -317,19 +317,19 @@ XML editor will display that as tooltips when editing this file.
     <crafting>
       <grid>
         <item /><item name="dustObsidian" /><item />
-        <item name="dustObsidian" /><item name="enderio:blockConduitFacade:2" /><item name="dustObsidian" />
+        <item name="dustObsidian" /><item name="enderio:itemConduitFacade:2" /><item name="dustObsidian" />
         <item /><item name="dustObsidian" /><item />
       </grid>
-      <output name="enderio:blockConduitFacade:3" />
+      <output name="enderio:itemConduitFacade:3" />
     </crafting>
   </recipe>
 
   <recipe name="Conduit Facade, transparent, hardened, upgrade" required="true">
     <crafting>
       <shapeless>
-        <item name="enderio:blockConduitFacade:1"/><item name="FUSED_GLASS" />
+        <item name="enderio:itemConduitFacade:1"/><item name="FUSED_GLASS" />
       </shapeless>
-      <output name="enderio:blockConduitFacade:3" />
+      <output name="enderio:itemConduitFacade:3" />
     </crafting>
   </recipe>
 
@@ -609,13 +609,13 @@ XML editor will display that as tooltips when editing this file.
         <item name="crystalPureFluix" /><item name="appliedenergistics2:part:140" /><item name="crystalPureFluix" />
         <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
       </grid>
-      <output name="ME_CONDUIT" amount="12">
+      <output name="ME_CONDUIT" amount="6">
         <level maxlevel="1"/>
       </output>
-      <output name="ME_CONDUIT" amount="8">
+      <output name="ME_CONDUIT" amount="4">
         <level minlevel="2" maxlevel="2"/>
       </output>
-      <output name="ME_CONDUIT" amount="2">
+      <output name="ME_CONDUIT" amount="1">
         <level minlevel="3"/>
       </output>
     </crafting>
@@ -638,15 +638,7 @@ XML editor will display that as tooltips when editing this file.
         <item name="ME_CONDUIT" /><item name="CONDUIT_BINDER" /><item name="ME_CONDUIT" />
         <item name="CONDUIT_BINDER" /><item name="ME_CONDUIT" /><item name="CONDUIT_BINDER" />
       </grid>
-      <output name="ME_CONDUIT_DENSE" amount="12">
-        <level maxlevel="1"/>
-      </output>
-      <output name="ME_CONDUIT_DENSE" amount="8">
-        <level minlevel="2" maxlevel="2"/>
-      </output>
-      <output name="ME_CONDUIT_DENSE" amount="2">
-        <level minlevel="3"/>
-      </output>
+      <output name="ME_CONDUIT_DENSE" amount="1" />
     </crafting>
   </recipe>
 
