@@ -164,6 +164,11 @@
       "blocklist": [
         "actuallyadditions:blockMisc/3",
         "armorplus:block_lava_crystal/0",
+        "arsmagica2:ore/0",
+        "arsmagica2:ore/1",
+        "arsmagica2:ore/2",
+        "arsmagica2:ore/3",
+        "arsmagica2:ore/4",
         "basemetals:adamantine_ore/0",
         "basemetals:coldiron_ore/0",
         "basemetals:copper_ore/0",

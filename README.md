@@ -32,6 +32,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
 1. [Aroma1997Core (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/223735)
 1. [Aroma1997s Dimensional World (by Aroma1997)](https://minecraft.curseforge.com/mc-mods/60092)
+1. [Ars Magica 2 (by Mithion and Growlith1223)](https://minecraft.curseforge.com/projects/ars-magica-2)
 1. [AutoRegLib (by Vazkii)](https://minecraft.curseforge.com/mc-mods/250363)
 1. [Base Metals (by jriwanek)](https://minecraft.curseforge.com/mc-mods/240967)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
