@@ -5,3 +5,6 @@ Session.vim
 .netrwhist
 *~
 .*DS_Store
+
+# Client configs
+config/betterfps.json
