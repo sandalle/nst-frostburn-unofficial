@@ -117,6 +117,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/mc-mods/223852)
 1. [Super Circuit Maker (by amadornes)](https://minecraft.curseforge.com/projects/super-circuit-maker)
 1. [Super Crafting Frame (by Edgar_Allen)](https://minecraft.curseforge.com/mc-mods/73926)
+1. [Surge (by Darkhax)](https://minecraft.curseforge.com/projects/surge)
 1. [The One Probe (by McJty)](https://minecraft.curseforge.com/projects/the-one-probe)
 1. [Tinker's Construct (by mDiyo)](https://minecraft.curseforge.com/mc-mods/74072)
 1. [Tinker's Tool Leveling (by boni)](https://minecraft.curseforge.com/projects/tinkers-tool-leveling)
