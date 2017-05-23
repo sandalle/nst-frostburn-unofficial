@@ -87,6 +87,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [MMD OreSpawn (by jriwanek)](https://minecraft.curseforge.com/mc-mods/245586)
 1. [More Bees (by Proffeser_science)](https://mods.curse.com/mc-mods/minecraft/250226-more-bees)
 1. [Morpheus (by Quetzi)](https://minecraft.curseforge.com/mc-mods/69118)
+1. [Mystical Agradditions (by BlakeBr0)](https://minecraft.curseforge.com/projects/mystical-agradditions)
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
 1. [Natura (by mDiyo)](https://mods.curse.com/mc-mods/minecraft/natura)
 1. [Nether Metals (by knoxhack)](https://minecraft.curseforge.com/mc-mods/243277)
