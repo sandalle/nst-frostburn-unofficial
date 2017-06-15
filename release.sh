@@ -11,7 +11,7 @@ git tag -u ${GPG_USER} --sign -m "frostburn-${VERSION}" "frostburn-${VERSION}"  
 # Increment to next version
 echo ${NEXT_VERSION} > VERSION  &&
 sed -i "s/S:modPackVersion=.*/S:modPackVersion=${VERSION}/" config/Mercurius.cfg  &&
-git commit -m "Starting ${NEXT_VERSION}" VERSION config/Mercurius  &&
+git commit -m "Starting ${NEXT_VERSION}" VERSION config/Mercurius.cfg  &&
 
 # Push new version and tags
 git push --all  &&
