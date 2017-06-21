@@ -52,6 +52,7 @@ This branch, 'frostburn', is for Minecraft 1.10.
 1. [CodeChicken Core 1.8+ (by covers1624)](https://minecraft.curseforge.com/projects/codechicken-core-1-8)
 1. [CodeChicken Lib 1.8+ (by covers1624)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
 1. [CompatLayer (by McJty)](https://minecraft.curseforge.com/projects/compatlayer)
+1. [Connected Textures Mod (by tterrag1098)](https://minecraft.curseforge.com/projects/ctm)
 1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/mc-mods/239197)
 1. [Ding (by iChun)](https://minecraft.curseforge.com/mc-mods/231275)
 1. [Draconic Evolution (by brandon3055)](https://mods.curse.com/mc-mods/minecraft/223565-draconic-evolution)
