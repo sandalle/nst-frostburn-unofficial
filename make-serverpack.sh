@@ -13,10 +13,11 @@ archiveList="asm/ \
 	config/ \
 	forge*.jar \
 	libraries/ \
+	minecraft_server.1.11.2.jar \
 	modpack/ \
 	mods/ \
 	scripts/ \
-        server.properties.template \
+	server.properties.template \
 	start.sh"
 
 # Exclude these files/folders
