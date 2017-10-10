@@ -16,6 +16,7 @@ archiveList="asm/ \
 	modpack/ \
 	mods/ \
 	scripts/ \
+        server.properties.template \
 	start.sh"
 
 # Exclude these files/folders
