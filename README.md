@@ -3,6 +3,14 @@ mechaet's server and client configurations for the Modderation series of modpack
 
 This branch, 'frostburn', is for Minecraft 1.10.
 
+Never Stop Toasting Minecraft 1.10.2 modpack by Lolmer. Just posting what I use for my family to play at home.
+
+I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
+
+# Other modpacks by Lolmer
+[NST Exploration](https://minecraft.curseforge.com/projects/nst-unofficial-exploration) - Minecraft 1.11.2
+[NST World of Color](https://minecraft.curseforge.com/projects/nst-world-of-color) - Minecraft 1.12.2
+
 # Packs using this config
 
 [NST Unofficial 1.10 - Frostburn edition on CurseForge](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn)
