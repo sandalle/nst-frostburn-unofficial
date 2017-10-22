@@ -1,8 +1,6 @@
 mechaet's server and client configurations for the Modderation series of modpacks
 ============================
 
-This branch, 'frostburn', is for Minecraft 1.10.
-
 Never Stop Toasting Minecraft 1.10.2 modpack by Lolmer. Just posting what I use for my family to play at home.
 
 I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
