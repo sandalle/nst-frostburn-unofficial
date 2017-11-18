@@ -21,7 +21,10 @@ archiveList="asm/ \
 	start.sh"
 
 # Exclude these files/folders
-excludeList="config/purpleirc/bots/*"
+excludeList="config/purpleirc/bots/* \
+			 mods/ImmersiveEngineering*-core.jar \
+			 libraries/org/minimallycorrect/mixin/Mixin*/Mixin*.jar \
+			 libraries/org/minimallycorrect/modpatcher/ModPatcher*/ModPatcher*.jar"
 
 cd "${1}" &&
 zip -r ../"${1///}".zip ${archiveList} --exclude ${excludeList} &&
