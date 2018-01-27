@@ -13,7 +13,7 @@ archiveList="asm/ \
 	config/ \
 	forge*.jar \
 	libraries/ \
-	minecraft_server.1.10.2.jar \
+	minecraft_server*.jar \
 	modpack/ \
 	mods/ \
 	scripts/ \
